@@ -1,0 +1,32 @@
+h2{
+ display:block;
+ text-align:center;
+font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 100px;
+    color: white;
+
+}
+
+h3{
+   display:block;
+ text-align:center;  
+    font-family: 'Oswald', sans-serif;
+    font-size: 60px;
+    color: white;
+
+}
+
+p{
+text-align: center;
+     font-family: 'Oswald', sans-serif;
+        color: white;
+}
+
+div{
+ text-align: center;   
+}
+
+body{
+    background-color: #C49BA8;
+}
+
